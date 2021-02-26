@@ -1,0 +1,1 @@
+python3 HeuristicSearch.py $1 $2
